@@ -1,0 +1,9 @@
+{
+  "slug": "courtcraft",
+  "fresh_venv": "work/clean-envs/courtcraft",
+  "fresh_checkout": "work/clean/courtcraft",
+  "passed": true,
+  "failure": null,
+  "runtime": "Python 3.12.14",
+  "model_training": null
+}
